@@ -2,7 +2,7 @@
 - I’m interested in AI and  ML stuffs, preferably in Data Science/ML engineer...
 - I’m currently working on my interests and looking for opportunities to work on Data Science projects
 - I'm working as Analyst in Cognizant...
-- Mail me @maranmagesh.m777@gmail.com
+- Mail me @ilamaran.magesh@oulook.com
 - Peace ;)
 
 <!---
