@@ -2,9 +2,9 @@
 - I’m interested in AI and  ML stuffs, preferably in Data Science/ML engineer...
 - I’m currently working on my interests and looking for opportunities to work on Data Science projects
 - I'm working as Programmer and Analyst in Cognizant...
+- I write my stuffs [here](https://maran.hashnode.dev) 😃
 - Mail me @ilamaran.magesh@oulook.com
-- Peace ;)
-
+- Peace and Cheers 🥂
 <!---
 IlamaranMagesh/IlamaranMagesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
