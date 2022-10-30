@@ -3,7 +3,7 @@
 - I’m currently working on my interests and looking for opportunities to work on Data Science / ML projects
 - I'm working as Programmer and Analyst in Cognizant...
 - I write my stuffs [here](https://maran.hashnode.dev) 😃
-- Mail me @ilamaran.magesh@oulook.com
+- Want to talk about cool techs, projects, etc. well, you can reach me in gitter.
 - Peace and Cheers 🥂
 <!---
 IlamaranMagesh/IlamaranMagesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
