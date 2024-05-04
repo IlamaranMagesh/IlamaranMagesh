@@ -1,7 +1,5 @@
-👋 Hi, I’m Ilamaran Magesh aka maran 
-- I’m interested in AI and  ML stuffs, preferably in Data Science/ML engineer...
-- I’m currently working on my interests and looking for opportunities to work on Data Science / ML projects
-- I'm working as Programmer and Analyst in Cognizant...
+👋 Hi, I’m Ilamaran Magesh aka Maran 
+- I'm a Data Analyst and a former data engineer, tredding steadily on becoming ML Engineer in NLP 
 - I write my stuffs [here](https://maran.hashnode.dev) 😃
 - Want to talk about cool techs, projects, etc. well, you can reach me in gitter.
 - Peace and Cheers 🥂
